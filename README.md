@@ -36,8 +36,8 @@ MIDIUS borrows the look and feel of 1970s and '80s arcade shooters like *Space I
 
 | | |
 |---|---|
-| ![](docs/Midius2_gW4R.png) | ![](docs/Midius3_gW4R.png) |
-| ![](docs/Midius4_gW4R.png) | ![](docs/Midius1_gW4R.png) |
+| ![](docs/Midius1_gW4R.png) | ![](docs/Midius2_gW4R.png) |
+| ![](docs/Midius3_gW4R.png) | ![](docs/Midius4_gW4R.png) |
 
 ## Requirements
 
