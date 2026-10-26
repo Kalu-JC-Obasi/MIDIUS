@@ -10,7 +10,7 @@ GG.fullscreen();
 
 
 GWindow win;
-win.title("Radial Rotation + Bullets + Enemies (MiniLab 3)");
+win.title("MIDIUS");
 
 
 
