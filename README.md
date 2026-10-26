@@ -62,10 +62,9 @@ MIDIUS borrows the look and feel of 1970s and '80s arcade shooters like *Space I
 
 ## Credits
 
-- Designed and programmed by Kalu Obasi.
+- Designed and programmed by Kalu Obasi (who also supplied all of the .wav files).
 - Thanks to Ge Wang, Eito, Kunwoo, Andrew and the Fall 2025 MUSIC 256A class at CCRMA.
 - Font: *Press Start 2P* by CodeMan38, used under the [SIL Open Font License](OFL.txt).
-<!-- CHECK: Did you make all of the .wav files yourself? If any came from elsewhere (e.g. freesound.org), credit them here with their licenses. Then delete this comment. -->
 
 ## License
 
