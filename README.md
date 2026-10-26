@@ -4,8 +4,6 @@
 
 Made in [ChucK](https://chuck.stanford.edu/) and [ChuGL](https://chuck.stanford.edu/chugl/) for MUSIC 256A / CS 476A (*Music, Computing, Design*) at Stanford's CCRMA, Fall 2025. It was my first solo game project.
 
-![MIDIUS gameplay](docs/media/Midius1.png)
-
 ▶️ **[Gameplay demo](https://youtu.be/0iaNU3rOVtA)** · 🌐 **[Project page on CCRMA](https://ccrma.stanford.edu/~kjcobasi/256A/Final/)** · Development milestones: [1](https://www.youtube.com/watch?v=hDZfXxSSPhw), [2](https://www.youtube.com/watch?v=jv7nr3wX0Lc)
 
 ---
@@ -33,6 +31,13 @@ MIDIUS borrows the look and feel of 1970s and '80s arcade shooters like *Space I
 | ➕ Health pack | Restores 1 health point |
 | ✖️2 Point multiplier | Double points for 5 seconds |
 | 💣 Explosive ammo | For 5 seconds, bullets become bombs that destroy every enemy in a small area |
+
+## Screenshots
+
+| | |
+|---|---|
+| ![](docs/Midius2_gW4R.png) | ![](docs/Midius3_gW4R.png) |
+| ![](docs/Midius4_gW4R.png) | ![](docs/Midius1_gW4R.png) |
 
 ## Requirements
 
@@ -62,7 +67,7 @@ MIDIUS borrows the look and feel of 1970s and '80s arcade shooters like *Space I
 
 ## Credits
 
-- Designed and programmed by Kalu Obasi (who also supplied all of the .wav files).
+- Design, programming, music and sound effects by Kalu Obasi.
 - Thanks to Ge Wang, Eito, Kunwoo, Andrew and the Fall 2025 MUSIC 256A class at CCRMA.
 - Font: *Press Start 2P* by CodeMan38, used under the [SIL Open Font License](OFL.txt).
 
